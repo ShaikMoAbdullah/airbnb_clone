@@ -1,0 +1,171 @@
+[
+    {
+        "id": 1,
+        "location": 3,
+        "name": "Mangowoods Serenity",
+        "image": "https://a0.muscache.com/im/pictures/miso/Hosting-49068311/original/cc5aaa2d-71f8-4038-b233-6a1337a365df.jpeg?im_w=960",
+        "address": "Kanakamamidi, Telangana, India",
+        "features": [
+            "Garden view",
+            "Ocean view",
+            "Wifi",
+            "Dedicated workspace"
+        ],
+        "rating": 4.25,
+        "price": "12,687",
+        "review_count": 56,
+        "hotel_status": false
+    },
+    {
+        "id": 2,
+        "location": 1,
+        "name": "Nature stay",
+        "image": "https://a0.muscache.com/im/pictures/e4972e28-b031-4cdf-901d-0d976e1b2dd1.jpg?im_w=960",
+        "address": "Mysuru, Karnataka, India",
+        "features": [
+            "Ocean view",
+            "Wifi",
+            "Washing machine",
+            "Dedicated workspace"
+        ],
+        "rating": 4.52,
+        "price": "5,250",
+        "review_count": 25,
+        "hotel_status": false
+    },
+    {
+        "id": 3,
+        "location": 2,
+        "name": "Modern Delight in Bandra West 4",
+        "image": "https://a0.muscache.com/im/pictures/78cfc605-b867-412c-8807-056cee0bc91d.jpg?im_w=960",
+        "address": "Mumbai, Maharashtra, India",
+        "features": [
+            "Garden view",
+            "Wifi",
+            "Washing machine",
+            "Dedicated workspace"
+        ],
+        "rating": 4.99,
+        "price": "10,400",
+        "review_count": 50,
+        "hotel_status": false
+    },
+    {
+        "id": 4,
+        "location": 2,
+        "name": "Comfortable ensuite room in Penthouse, Bandra West",
+        "image": "https://a0.muscache.com/im/pictures/11477012-f1f1-410c-b081-9aebd0147310.jpg?im_w=960",
+        "address": "West Mumbai, Maharashtra, India",
+        "features": [
+            "Ocean view",
+            "Wifi",
+            "Washing machine"
+        ],
+        "rating": 4.17,
+        "price": "8,760",
+        "review_count": 30,
+        "hotel_status": false
+    },
+    {
+        "id": 5,
+        "location": 2,
+        "name": "Grand Luxury Studio Near Olives Bandra/Carter Rd",
+        "image": "https://a0.muscache.com/im/pictures/a84df96e-e932-4214-9687-f9f2f80700cb.jpg?im_w=960",
+        "address": "Mumbai, Maharashtra, India",
+        "features": [
+            "Garden view",
+            "Ocean view",
+            "Washing machine",
+            "Dedicated workspace"
+        ],
+        "rating": 4.23,
+        "price": "15,000",
+        "review_count": 40,
+        "hotel_status": false
+    },
+    {
+        "id": 6,
+        "location": 1,
+        "name": "Rosewood stay Deluxe",
+        "image": "https://a0.muscache.com/im/pictures/7525280b-958c-48bd-a30e-68205fdeb66b.jpg?im_w=960",
+        "address": "Cherambane, Karnataka, India",
+        "features": [
+            "Garden view",
+            "Ocean view",
+            "Wifi",
+            "Washing machine"
+        ],
+        "rating": 4.75,
+        "price": "7,000",
+        "review_count": 46,
+        "hotel_status": false
+    },
+    {
+        "id": 7,
+        "location": 3,
+        "name": "The MudHouse Marayoor - Cob (Nature Living)",
+        "image": "https://a0.muscache.com/im/pictures/125804c8-cfc5-4044-b58f-bfe40afd9f34.jpg?im_w=960",
+        "address": "Kanakamamidi, Telangana, India",
+        "features": [
+            "Garden view",
+            "Ocean view",
+            "Washing machine",
+            "Dedicated workspace"
+        ],
+        "rating": 4.80,
+        "price": "20,000",
+        "review_count": 99,
+        "hotel_status": false
+    },
+    {
+        "id": 8,
+        "location": 1,
+        "name": "Luxurious Cabin Villa in Deep Nature @Nandi Hills",
+        "image": "https://a0.muscache.com/im/pictures/e18ecf62-35c8-4642-8964-d025d12cd757.jpg?im_w=960",
+        "address": "Nandi Hills, Karnataka, India",
+        "features": [
+            "Ocean view",
+            "Wifi",
+            "Washing machine",
+            "Dedicated workspace"
+        ],
+        "rating": 4.15,
+        "price": "11,000",
+        "review_count": 14,
+        "hotel_status": false
+    },
+    {
+        "id": 9,
+        "location": 4,
+        "name": "Colonial 4BR Home, Coonoor - BBQ, Bonfire & Private Chef",
+        "image": "https://a0.muscache.com/im/pictures/5b42a570-2cce-4e17-8fd5-ff3522985917.jpg?im_w=960",
+        "address": "Coonoor, Tamil Nadu, India",
+        "features": [
+            "Garden view",
+            "Wifi",
+            "Washing machine",
+            "Dedicated workspace"
+        ],
+        "rating": 4.35,
+        "price": "9,000",
+        "review_count": 78,
+        "hotel_status": false
+    },
+    {
+        "id": 10,
+        "location": 3,
+        "name": "Mangowoods Serenity",
+        "image": "https://a0.muscache.com/im/pictures/f3a1dab8-09d8-499b-94d2-540032835e2f.jpg?im_w=960",
+        "address": "Kanakamamidi, Telangana, India",
+        "features": [
+            "Garden view",
+            "Ocean view",
+            "Wifi",
+            "Dedicated workspace"
+        ],
+        "rating": 4.55,
+        "price": "4,000",
+        "review_count": 76,
+        "hotel_status": false
+    }
+]

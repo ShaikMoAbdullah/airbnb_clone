@@ -1,0 +1,191 @@
+[
+    {
+        "id": 1,
+        "hosted_by_name": "Pavan Kumar Reddy",
+        "hosted_by_photo": "https://a0.muscache.com/im/pictures/user/4a80c799-713f-4524-89b3-56e1f23edeec.jpg?im_w=240",
+        "property": 1,
+        "name": "Mangowoods Serenity",
+        "image": "https://a0.muscache.com/im/pictures/miso/Hosting-49068311/original/cc5aaa2d-71f8-4038-b233-6a1337a365df.jpeg?im_w=960",
+        "address": "Kanakamamidi, Telangana, India",
+        "features": [
+            "Garden view",
+            "Ocean view",
+            "Wifi",
+            "Dedicated workspace"
+        ],
+        "rating": 4.25,
+        "price": "12,687",
+        "review_count": 56,
+        "booking_status": false
+    },
+    {
+        "id": 2,
+        "hosted_by_name": "Amit",
+        "hosted_by_photo": "https://a0.muscache.com/im/pictures/user/73df84c3-fef1-4560-bfec-18f2bd1f221f.jpg?im_w=240",
+        "property": 2,
+        "name": "Nature stay",
+        "image": "https://a0.muscache.com/im/pictures/e4972e28-b031-4cdf-901d-0d976e1b2dd1.jpg?im_w=960",
+        "address": "Mysuru, Karnataka, India",
+        "features": [
+            "Ocean view",
+            "Wifi",
+            "Washing machine",
+            "Dedicated workspace"
+        ],
+        "rating": 4.52,
+        "price": "5,250",
+        "review_count": 25,
+        "booking_status": false
+    },
+    {
+        "id": 3,
+        "hosted_by_name": "Deepak",
+        "hosted_by_photo": "https://a0.muscache.com/im/pictures/user/c9223f77-16a2-4fae-a31a-58cdd2dcc990.jpg?im_w=240",
+        "property": 3,
+        "name": "Modern Delight",
+        "image": "https://a0.muscache.com/im/pictures/78cfc605-b867-412c-8807-056cee0bc91d.jpg?im_w=960",
+        "address": "Mumbai, Maharashtra, India",
+        "features": [
+            "Garden view",
+            "Wifi",
+            "Washing machine",
+            "Dedicated workspace"
+        ],
+        "rating": 4.99,
+        "price": "10,400",
+        "review_count": 50,
+        "booking_status": false
+    },
+    {
+        "id": 4,
+        "hosted_by_name": "Kunal",
+        "hosted_by_photo": "https://a0.muscache.com/im/pictures/user/7254cafd-36da-40c6-8947-fcf741be2d53.jpg?im_w=240",
+        "property": 4,
+        "name": "Comfortable ensuite room",
+        "image": "https://a0.muscache.com/im/pictures/11477012-f1f1-410c-b081-9aebd0147310.jpg?im_w=960",
+        "address": "West Mumbai, Maharashtra, India",
+        "features": [
+            "Ocean view",
+            "Wifi",
+            "Washing machine"
+        ],
+        "rating": 4.17,
+        "price": "8,760",
+        "review_count": 30,
+        "booking_status": false
+    },
+    {
+        "id": 5,
+        "hosted_by_name": "Praveen",
+        "hosted_by_photo": "https://a0.muscache.com/im/pictures/user/4c5e36e7-605e-48eb-b959-f74e626f12dc.jpg?im_w=240",
+        "property": 5,
+        "name": "Grand Luxury Studio",
+        "image": "https://a0.muscache.com/im/pictures/a84df96e-e932-4214-9687-f9f2f80700cb.jpg?im_w=960",
+        "address": "Mumbai, Maharashtra, India",
+        "features": [
+            "Garden view",
+            "Ocean view",
+            "Washing machine",
+            "Dedicated workspace"
+        ],
+        "rating": 4.23,
+        "price": "15,000",
+        "review_count": 40,
+        "booking_status": false
+    },
+    {
+        "id": 6,
+        "hosted_by_name": "Somashekar",
+        "hosted_by_photo": "https://a0.muscache.com/im/pictures/user/a32dcb48-9f3a-4756-9429-122f0ed69525.jpg?im_w=240",
+        "property": 6,
+        "name": "Rosewood stay Deluxe",
+        "image": "https://a0.muscache.com/im/pictures/7525280b-958c-48bd-a30e-68205fdeb66b.jpg?im_w=960",
+        "address": "Cherambane, Karnataka, India",
+        "features": [
+            "Garden view",
+            "Ocean view",
+            "Wifi",
+            "Washing machine"
+        ],
+        "rating": 4.75,
+        "price": "7,000",
+        "review_count": 46,
+        "booking_status": false
+    },
+    {
+        "id": 7,
+        "hosted_by_name": "Antony",
+        "hosted_by_photo": "https://a0.muscache.com/im/pictures/user/45290b70-8b4c-4378-b706-f14be78e426c.jpg?im_w=240",
+        "property": 7,
+        "name": "The MudHouse Marayoor - Cob (Nature Living)",
+        "image": "https://a0.muscache.com/im/pictures/125804c8-cfc5-4044-b58f-bfe40afd9f34.jpg?im_w=960",
+        "address": "Kanakamamidi, Telangana, India",
+        "features": [
+            "Garden view",
+            "Ocean view",
+            "Washing machine",
+            "Dedicated workspace"
+        ],
+        "rating": 4.80,
+        "price": "20,000",
+        "review_count": 99,
+        "booking_status": false
+    },
+    {
+        "id": 8,
+        "hosted_by_name": "Nikhil",
+        "hosted_by_photo": "https://a0.muscache.com/im/pictures/user/9f2aac68-7378-4d09-a68d-35919928595f.jpg?im_w=240",
+        "property": 8,
+        "name": "Luxurious Cabin Villa in Deep Nature",
+        "image": "https://a0.muscache.com/im/pictures/e18ecf62-35c8-4642-8964-d025d12cd757.jpg?im_w=960",
+        "address": "Nandi Hills, Karnataka, India",
+        "features": [
+            "Ocean view",
+            "Wifi",
+            "Washing machine",
+            "Dedicated workspace"
+        ],
+        "rating": 4.15,
+        "price": "11,000",
+        "review_count": 14,
+        "booking_status": false
+    },
+    {
+        "id": 9,
+        "hosted_by_name": "Vinay",
+        "hosted_by_photo": "https://a0.muscache.com/im/pictures/user/f70b0365-b58b-4dfe-8ce8-6b7278caf9f1.jpg?im_w=240",
+        "property": 9,
+        "name": "Colonial 4BR Home",
+        "image": "https://a0.muscache.com/im/pictures/5b42a570-2cce-4e17-8fd5-ff3522985917.jpg?im_w=960",
+        "address": "Coonoor, Tamil Nadu, India",
+        "features": [
+            "Garden view",
+            "Wifi",
+            "Washing machine",
+            "Dedicated workspace"
+        ],
+        "rating": 4.35,
+        "price": "9,000",
+        "review_count": 78,
+        "booking_status": false
+    },
+    {
+        "id": 10,
+        "hosted_by_name": "Uthappa",
+        "hosted_by_photo": "https://a0.muscache.com/im/pictures/user/f225466d-0b09-4f4f-bc00-d9d81edfd680.jpg?im_w=240",
+        "property": 10,
+        "name": "Mangowoods Serenity",
+        "image": "https://a0.muscache.com/im/pictures/f3a1dab8-09d8-499b-94d2-540032835e2f.jpg?im_w=960",
+        "address": "Kanakamamidi, Telangana, India",
+        "features": [
+            "Garden view",
+            "Ocean view",
+            "Wifi",
+            "Dedicated workspace"
+        ],
+        "rating": 4.55,
+        "price": "4,000",
+        "review_count": 76,
+        "booking_status": false
+    }
+]
